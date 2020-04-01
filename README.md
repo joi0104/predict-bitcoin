@@ -1,1 +1,1 @@
-predict_bitcoin
+predict-bitcoin
